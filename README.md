@@ -8,9 +8,9 @@
 Fırsatlar Cepte uygulamamızda; Kategorilerimizdeki ürünlerin en uygun nerede satıldığını gösteren ve yönlendiren bir uygulamadır.
 
 ## Ekibimiz 
-**Danışman:** 
+- **Danışman:** 
 https://github.com/keyvanarasteh(Keyvan Arasteh)
-**Takım Üyeleri**:
+- **Takım Üyeleri**:
 [GİT HUB](https://github.com/Mamio0)
 
 ## Özellikler
