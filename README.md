@@ -9,7 +9,7 @@ Fırsatlar Cepte uygulamamızda; Kategorilerimizdeki ürünlerin en uygun nerede
 
 ## Ekibimiz 
 - **Danışman:** 
-https://github.com/keyvanarasteh(Keyvan Arasteh)
+https://github.com/keyvanarasteh (Keyvan Arasteh)
 - **Takım Üyeleri**:
 [GİT HUB](https://github.com/Mamio0)
 
